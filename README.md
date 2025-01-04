@@ -1,1 +1,2 @@
 # IndianTradeAnalysis
+Trends and Predictions
